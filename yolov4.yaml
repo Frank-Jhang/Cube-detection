@@ -1,0 +1,13 @@
+yolo_model:
+
+  config_file:
+    name: custom-yolov4-tiny-detector.cfg
+  weight_file:
+    name: custom-yolov4-tiny-detector_best.weights
+  threshold:
+    value: 0.3
+  detection_classes:
+    names:
+      - blue_cube
+      - green_cube
+      - red_cube
