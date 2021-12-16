@@ -1,2 +1,3 @@
 # Cube-detection
-model configuarton and weight
+1. Model configuarton and weight
+2. ROS interface
